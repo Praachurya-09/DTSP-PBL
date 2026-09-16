@@ -151,9 +151,9 @@ FPGA-FIR-Audio-Filter/
 
 ---
 
-## 📊 Current Progress
+##  Current Progress
 
-### Phase 1 — Project Planning ✅
+### Phase 1 — Project Planning 
 
 * [x] Project topic finalized
 * [x] Problem statement identified
@@ -162,7 +162,7 @@ FPGA-FIR-Audio-Filter/
 * [x] FPGA implementation approach identified
 * [x] Python + Verilog + Vivado workflow planned
 
-### Phase 2 — Filter Design 🔄
+### Phase 2 — Filter Design 
 
 * [ ] Generate sample audio signal
 * [ ] Add controlled high-frequency noise
@@ -171,7 +171,7 @@ FPGA-FIR-Audio-Filter/
 * [ ] Calculate FIR coefficients
 * [ ] Verify filter behavior using Python
 
-### Phase 3 — FPGA Implementation ⏳
+### Phase 3 — FPGA Implementation 
 
 * [ ] Develop FIR filter RTL
 * [ ] Develop delay-line structure
@@ -180,7 +180,7 @@ FPGA-FIR-Audio-Filter/
 * [ ] Run Vivado simulation
 * [ ] Analyze RTL waveform
 
-### Phase 4 — Audio Verification ⏳
+### Phase 4 — Audio Verification 
 
 * [ ] Generate filtered samples
 * [ ] Reconstruct filtered audio
